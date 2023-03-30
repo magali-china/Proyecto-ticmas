@@ -83,5 +83,9 @@ h5{
 } 
 
 .texto-index{
+    letter-spacing: 3px;
+}
 
+.col{
+    padding-left: 20px;
 }
